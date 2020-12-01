@@ -61,3 +61,4 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
