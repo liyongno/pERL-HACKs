@@ -70,3 +70,4 @@
     </None>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
