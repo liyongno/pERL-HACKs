@@ -5,3 +5,4 @@
     {
         /// <summary>
         /// Required designer variable.
+        /// </summary>
