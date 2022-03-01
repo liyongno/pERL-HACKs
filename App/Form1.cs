@@ -10,4 +10,4 @@ using System.Windows.Forms;
 
 namespace App
 {
-    public partia
+    public partial c
