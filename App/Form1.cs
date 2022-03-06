@@ -10,4 +10,4 @@ using System.Windows.Forms;
 
 namespace App
 {
-    public partial class For
+    public partial class Form
