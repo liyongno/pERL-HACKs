@@ -12,3 +12,4 @@ namespace App
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        [STAThread]
