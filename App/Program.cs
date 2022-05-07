@@ -14,3 +14,4 @@ namespace App
         /// </summary>
         [STAThread]
         static void Main()
+        {
