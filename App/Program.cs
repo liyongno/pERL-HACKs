@@ -20,3 +20,4 @@ namespace App
             Application.Run(new Form1());
         }
     }
+}
