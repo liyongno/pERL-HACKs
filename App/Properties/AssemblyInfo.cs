@@ -8,3 +8,4 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("App")]
 [assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
