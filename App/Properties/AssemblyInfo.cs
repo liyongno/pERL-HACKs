@@ -11,3 +11,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("App")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
