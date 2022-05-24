@@ -9,3 +9,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("App")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("App")]
