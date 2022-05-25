@@ -12,3 +12,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("App")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyTrademark("")]
