@@ -13,3 +13,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("App")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible
