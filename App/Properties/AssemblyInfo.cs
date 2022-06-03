@@ -27,3 +27,4 @@ using System.Runtime.InteropServices;
 //
 //      Major Version
 //      Minor Version
+//      Build Number
