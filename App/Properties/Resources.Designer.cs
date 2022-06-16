@@ -8,3 +8,6 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
+namespace App.Properties
+{
