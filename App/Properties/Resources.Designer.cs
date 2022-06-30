@@ -34,3 +34,5 @@ namespace App.Properties
         internal Resources()
         {
         }
+
+        /// <summary>
