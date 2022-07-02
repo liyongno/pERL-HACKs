@@ -44,3 +44,4 @@ namespace App.Properties
             get
             {
                 if ((resourceMan == null))
+                {
