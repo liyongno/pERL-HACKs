@@ -45,3 +45,5 @@ namespace App.Properties
             {
                 if ((resourceMan == null))
                 {
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("App.Properties.Resources", typeof(Resources).Assembly);
+                    resourceMan = temp;
