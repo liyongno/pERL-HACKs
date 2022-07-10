@@ -53,3 +53,4 @@ namespace App.Properties
         }
 
         /// <summary>
+        ///   Overrides the current thread's CurrentUICulture property for all
