@@ -51,3 +51,5 @@ namespace App.Properties
                 return resourceMan;
             }
         }
+
+        /// <summary>
