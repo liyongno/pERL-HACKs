@@ -60,3 +60,5 @@ namespace App.Properties
         internal static global::System.Globalization.CultureInfo Culture
         {
             get
+            {
+                return resourceCulture;
