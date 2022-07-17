@@ -64,3 +64,4 @@ namespace App.Properties
                 return resourceCulture;
             }
             set
+            {
