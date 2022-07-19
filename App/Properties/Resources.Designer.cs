@@ -68,3 +68,4 @@ namespace App.Properties
                 resourceCulture = value;
             }
         }
+    }
