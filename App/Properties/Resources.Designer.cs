@@ -66,3 +66,5 @@ namespace App.Properties
             set
             {
                 resourceCulture = value;
+            }
+        }
