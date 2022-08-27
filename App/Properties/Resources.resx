@@ -80,3 +80,5 @@
               <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
