@@ -100,3 +100,4 @@
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
+      </xsd:complexType>
