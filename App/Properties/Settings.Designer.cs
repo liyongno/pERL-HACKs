@@ -11,3 +11,6 @@
 
 namespace App.Properties
 {
+
+
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
