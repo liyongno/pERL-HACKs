@@ -22,3 +22,5 @@ namespace App.Properties
 
         public static Settings Default
         {
+            get
+            {
