@@ -25,3 +25,4 @@ namespace App.Properties
             get
             {
                 return defaultInstance;
+            }
