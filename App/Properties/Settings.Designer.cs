@@ -27,3 +27,5 @@ namespace App.Properties
                 return defaultInstance;
             }
         }
+    }
+}
